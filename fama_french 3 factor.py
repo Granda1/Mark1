@@ -29,6 +29,13 @@ ff3_monthly.set_index('Date', inplace=True)
 
 print(stock_data)
 print(ff3_monthly)
+
+'''
+랄랄라
+'''
+
+
+
 '''
 
 #2. Calculation of the stock’s historical monthly returns
